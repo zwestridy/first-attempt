@@ -1,0 +1,5 @@
+# Files about building
+build/
+
+# All executable files
+*.[Ee][Xx][Ee]
